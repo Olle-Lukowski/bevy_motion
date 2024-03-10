@@ -7,7 +7,7 @@ description = "A Physics Engine for Bevy"
 readme = "README.md"
 repository = "https://github.com/Olle-Lukowski/bevy_motion"
 license = "MIT OR Apache-2.0"
-keywords = ["bevy", "physics", "motion", "engine", "simulation", "2d", "3d"]
+keywords = ["bevy", "physics", "simulation", "2d", "3d"]
 categories = ["game-development", "physics", "simulation", "2d", "3d"]
 
 [features]
