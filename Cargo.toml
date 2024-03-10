@@ -1,0 +1,17 @@
+[package]
+name = "bevy_motion"
+version = "0.0.1"
+edition = "2021"
+authors = ["Olle Lukowski <ollelukowski@hotmail.com>"]
+description = "A Physics Engine for Bevy"
+readme = "README.md"
+repository = "https://github.com/Olle-Lukowski/bevy_motion"
+license = "MIT OR Apache-2.0"
+keywords = ["bevy", "physics", "motion", "engine", "simulation", "2d", "3d"]
+categories = ["game-development", "physics", "simulation", "2d", "3d"]
+
+[features]
+default = []
+
+[dependencies]
+bevy = { version = "0.13", default-features = false }
