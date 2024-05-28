@@ -6,7 +6,7 @@
 [![crates.io](https://img.shields.io/crates/v/bevy_motion)](https://crates.io/crates/bevy_motion)
 [![docs.rs](https://docs.rs/bevy_motion/badge.svg)](https://docs.rs/bevy_motion)
 
-A Physics Engine for Bevy. Currently in development.
+A Physics Engine for Bevy. Currently in development, NOT stable (yet).
 
 ## Supported Bevy Versions
 | bevy  | bevy_motion |
